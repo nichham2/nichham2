@@ -22,3 +22,4 @@ Hi, I'm Nich , a tech enthusiast and ICT professional based in Jamaica. I have a
 [![](https://visitcount.itsvg.in/api?id=nichham2&icon=1&color=13)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](YOUR_PAYPAL_LINK)
